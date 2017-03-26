@@ -1,0 +1,7 @@
+{
+	"token" : "xxxxxx",
+	"channel": "git-branch-trakcer",
+	"post_msg_url" : "https://slack.com/api/chat.postMessage",
+	"ch_info_url" : "https://slack.com/api/channels.info",
+	"channel_id" : "ABCDEFG"
+}
